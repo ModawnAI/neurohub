@@ -1,7 +1,7 @@
 # NeuroHub 기법 컨테이너 스모크 테스트 보고서
 
 **작성일**: 2026년 2월 28일
-**작성자**: Claude Code (자동화 테스트)
+**작성자**: 유경진/Claude Code (자동화 테스트)
 **테스트 서버**: 103.22.220.93:3093 (Ubuntu 22.04.5 LTS)
 **테스트 데이터**: sub-001 (T1 MRI + DTI)
 **테스트 대상 서비스**: 파킨슨 진단 (Parkinson Dx) — Cortical_Thickness(0.15) + Diffusion_Properties(0.20)
